@@ -1,0 +1,9 @@
+#sitioAbonado{
+    background-color: red;
+}
+.span{
+    min-width: 8px;
+
+    padding: 2px;
+    border: 1px solid black;
+}

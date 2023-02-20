@@ -1,0 +1,11 @@
+Equipo Seleccionado: Legendarios
+Zona seleccionada: B
+Numero: 122,  Precio: 15€ 
+Numero: 132,  Precio: 15€ 
+Numero: 142,  Precio: 15€ 
+Equipo Seleccionado: Legendarios
+Zona seleccionada: D
+Numero: 362,  Precio: 5€ 
+Numero: 372,  Precio: 5€ 
+Numero: 392,  Precio: 5€ 
+Precio Total</b>: 60€

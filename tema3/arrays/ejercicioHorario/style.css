@@ -1,0 +1,15 @@
+.domingo{
+    color:rgb(255, 0, 0);
+}
+.nacional{
+    color: rgb(153, 28, 28);
+}
+.local{
+    color: purple;
+}
+.comunidad{
+    color: brown;
+}
+.diaActual{
+    color: green;
+}

@@ -1,0 +1,13 @@
+div{
+    display: flex;
+}
+img{
+    flex: 1;
+}
+form{
+    display: inline-block;
+}
+
+a{
+    display: inline-block;
+}
