@@ -6,6 +6,10 @@
     },
     "require": {
         "vlucas/phpdotenv": "^5.5",
-        "illuminate/database": "^10.0"
+        "illuminate/database": "^10.0",
+        "laminas/laminas-diactoros": "^2.24",
+        "aura/router": "^3.2",
+        "twig/twig": "^3.0",
+        "respect/validation": "^2.2"
     }
 }

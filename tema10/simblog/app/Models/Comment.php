@@ -11,7 +11,7 @@ use \Illuminate\Database\Eloquent\Model;
 
  class Comment extends Model{
     protected $table = "comment";
-    protected $fillable = ['user', 'comment', 'created_at', 'blog_id'];
+    protected $fillable = ['user','comment', 'created_at', 'blog_id'];
     // private $user;
     // private $comment;
     // private $blog;

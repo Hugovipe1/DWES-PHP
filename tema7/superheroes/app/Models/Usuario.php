@@ -35,9 +35,9 @@ class Usuario extends  DBAbstractModel{
 
 
     public function existe(){
-        $this->query = "SELECT * FROM usuarios WHERE usuario = :usuario and passwd = :passwd";
+        $this->query = "SELECT * FROM usuarios WHERE usuario = :usuario and password = :password";
         $this->parametros["usuario"] = $this->usuario;
-        $this->parametros["passwd"] = $this->passwd;
+        $this->parametros["password"] = $this->passwd;
         $this->get_results_from_query();
         if(count($this->rows) == 1) {
             return $this->rows;
